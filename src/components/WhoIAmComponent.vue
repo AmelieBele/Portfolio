@@ -4,10 +4,11 @@
         <p>
             Je suis Amélie, développeur web junior. J'ai, juste après mon bac, décider d'arrêter mes études et me suis dirigé vers le commerce 
             puis-qu'une occasion s'est présentée à moi. Dans le prêt-à-porter puis dans l'alimentaire, j'ai fini par en avoir assez vu et 
-            j'ai donc décidé de reprendre mes études. Ayant toujours été plutôt à l'aise avec l'outil informatique, j'ai décidé de passer une formation de 
-            développeur web avec Openclassrooms et l'ai obtenue avec succès. Il est temps pour moi d'entrer dans le monde du travail avec ce 
-            nouveau diplôme en poche et de trouver l'employeur qui me laissera ma chance. J'ai hâte d'en apprendre plus sur ce travail
-            qui regorge de choses que je ne connais pas encore !<span>;</span>
+            j'ai donc décidé de reprendre mes études. J'ai appris le métier via une formation condensée, comme on en entend beaucoup parler, 
+            mais malgré mon manque d’expérience professionnelle, cela n’entame en rien ma motivation, au contraire, cela me pousse encore 
+            plus à faire mes preuves. Il est temps pour moi d'entrer dans le monde du travail avec ce 
+            nouveau diplôme en poche et de trouver l'employeur qui me laissera ma chance. Je suis hyper impatiente à l'idée d'enfin entrer
+            dans ce nouveau milieu et surtout, j'ai envie d'apprendre encore plus !<span>;</span>
         </p>
     </div>
 </template>
